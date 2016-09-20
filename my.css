@@ -11,6 +11,13 @@ body {
     background-color: white;
 }
 
-.back {
-    background-color: white
+.backg {
+    background-color: white;
+}
+
+.header {
+    color: #990000;
+    font-size: 50px;
+    text-align: center;
+    background-image: url(https://giirlgonegeek.files.wordpress.com/2014/12/evan-peters.jpg)
 }
