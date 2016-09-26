@@ -1,13 +1,23 @@
 h5 {
     color: gray;
+    text-align: center;
 }
 
 h3 {
     color: red;
+    text-align: center;
+}
+
+img {
+    border-radius: 30px;
 }
 
 body {
-    background-image: url("https://il6.picdn.net/shutterstock/videos/10658729/thumb/4.jpg");
+    background: url("http://wallpaperbeta.com/wallpaper_gray/gray_forest_background_coniferous_fog_nature_hd-wallpaper-364814.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
 
 .backg {
@@ -16,10 +26,10 @@ body {
 }
 
 .header {
-    color: #990000;
+    color: maroon;
     font-size: 50px;
     text-align: center;
-    background-color: white;
+    background-color: black;
 }
 
 .nav ul {
