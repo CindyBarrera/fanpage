@@ -1,0 +1,23 @@
+body {
+    background: url("http://www.partyponty.hu/system/post_pictures/4075/original/american_horror_story_kezdolap.jpg?1384816130") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.header {
+    background-color: bisque;
+    padding: 30px;
+    background-image: url(http://cdn.playbuzz.com/cdn/4a57763c-395d-4df8-86f2-6f3cf96967e1/9d145577-8521-4df4-ab72-5dce86845395.jpg);
+}
+
+h1 {
+    text-align: center;
+    background-color: beige;
+}
+
+.backg {
+    background-color: white;
+}
+
