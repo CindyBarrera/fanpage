@@ -9,7 +9,7 @@ body {
 .header {
     background-color: bisque;
     padding: 30px;
-    background-image: url(http://cdn.playbuzz.com/cdn/4a57763c-395d-4df8-86f2-6f3cf96967e1/9d145577-8521-4df4-ab72-5dce86845395.jpg);
+    background-image: url(http://66.media.tumblr.com/adbce59474ed13ef8edbb933f938969a/tumblr_inline_nyl3nuCm701tfeqet_400.jpg);
 }
 
 h1 {
@@ -17,7 +17,46 @@ h1 {
     background-color: beige;
 }
 
-.backg {
-    background-color: white;
+h3 {
+    text-align: center;
 }
 
+.backg {
+    background-color: white;
+    padding: 30px;
+}
+
+img {
+    padding: 20px;
+}
+
+p {
+    padding-top: 20px;
+}
+
+.nav ul {
+  list-style: none;
+  background-color: #DCDCDC;
+  text-align: center;
+  padding: 0;
+  margin: 8;
+}
+
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 20px;
+  height: 25px;
+  border-bottom: 1px solid black;
+}
+ 
+.nav a {
+  text-decoration: none;
+  color: #0095B6;
+  display: block;
+  transition: .3s
+}
+ 
+.nav a:hover {
+  background-color: #005f5f;
+}
