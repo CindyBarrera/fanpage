@@ -1,0 +1,52 @@
+h1 {
+    padding: 30px;
+    text-align: center;
+    background-color: white;
+}
+
+h2 {
+    text-align: center
+}
+
+.nav ul {
+  list-style: none;
+  background-color: #DCDCDC;
+  text-align: center;
+  padding: 0;
+  margin: 8;
+}
+
+.nav li {
+  font-family: 'Oswald', sans-serif;
+  font-size: 1.2em;
+  line-height: 20px;
+  height: 25px;
+  border-bottom: 1px solid black;
+}
+ 
+.nav a {
+  text-decoration: none;
+  color: #0095B6;
+  display: block;
+  transition: .3s
+}
+ 
+.nav a:hover {
+  background-color: #005f5f;
+}
+
+body {
+    background: url(http://i450.photobucket.com/albums/qq229/LyssaAlex/Backgrounds/cloudy_sky2_black_and_white.jpg)
+}
+
+.backg {
+    background-color: white;
+}
+
+p {
+    padding: 30px;
+}
+
+img {
+    padding: 20px;
+}
